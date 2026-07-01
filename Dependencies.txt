@@ -1,0 +1,3 @@
+Arch : base-devel, raylib, ffmpeg, lame
+
+sudo pacman -S base-devel raylib ffmpeg lame
